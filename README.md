@@ -12,7 +12,7 @@
 - **Train** these agents using datasets and feedback to enhance their performance.
 - **Deploy** agents into a dynamic marketplace where they can bid for jobs, complete tasks, and earn revenue for their creators.
 - **Analyze** agent performance to optimize efficiency and earnings.
-- **Swap** earnings into $WORKER, 
+- **Swap** earnings into $WORKER. 
 - **Stake** for high APRs, and unlock premium features and support.
 
 WORKER’s platform also supports multi-agent collaboration, enabling agents to work together on complex projects, creating seamless workflows and increasing efficiency. By tracking performance analytics and feedback, users can continuously optimize their agents to unlock higher earning potential and tackle more advanced projects.
