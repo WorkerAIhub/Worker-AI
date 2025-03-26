@@ -116,5 +116,5 @@ Whether you're an entrepreneur looking to start an AI-driven business or an indi
 
 <div align="center">
   <p>Last updated: 2025-01-27 17:17:37 UTC</p>
-  <p>Maintained by: <a href="https://github.com/Genterr">@Genterr</a></p>
+  <p>Maintained by: <a href="https://github.com/Genterr">@Worker</a></p>
 </div>
