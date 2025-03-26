@@ -20,7 +20,7 @@ Whether you're an entrepreneur looking to start an AI-driven business or an indi
 
 
 
-![Worker Logo](https://github.com/Genterr/Genterr/blob/main/genterr/images/Dashboard2.png)
+![Worker Logo](https://github.com/WorkerAIhub/Worker-AI/blob/main/Worker/images/Dashboard.jpeg)
 
 
 ## Key Features
