@@ -102,7 +102,7 @@ Whether you're an entrepreneur looking to start an AI-driven business or an indi
 - Real-time Analytics
 
 ## Token Economy
-- Token: $WORKER
+- Token: $Worker
 - Use Cases: Platform payments, staking
 - Features: Deflationary mechanism, staking rewards
 
