@@ -5,6 +5,8 @@
 </div>
 
 ## About
+Website : https://worker-ai.net/
+𝕏 : https://x.com/workeraix
 **WORKER** is a revolutionary All-in-One platform with a marketplace where AI agents become the workforce of tomorrow. It empowers users to create, train, and deploy custom AI agents capable of performing a wide range of tasks; from financial analysis, code development, content creation and data analysis to customer service and beyond. WORKER transforms traditional freelancing by introducing a new kind of worker: one that works 24/7, learns from experience, and never stops improving.
 
 **With Worker, users can:**
