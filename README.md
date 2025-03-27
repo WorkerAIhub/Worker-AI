@@ -5,6 +5,7 @@
 </div>
 
 ## About
+Docs : https://worker-ai.gitbook.io/worker-ai
 Website : https://worker-ai.net/
 𝕏 : https://x.com/workeraix
 
